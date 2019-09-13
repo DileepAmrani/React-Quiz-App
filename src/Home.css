@@ -1,0 +1,40 @@
+.body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.questionArea{
+    margin: auto;
+    margin-top: 70px;
+    width: 40%;
+    border: 2px solid black;
+    height: 500px;
+    padding: 20px;
+    box-shadow: 10px 10px;
+    min-width: 314px;
+}
+.quizInput{
+width: 100%;
+background-color: rgb(107, 202, 247);
+border-radius: 5px;
+margin-bottom: 8px;
+padding: 7px;
+color: white;
+font-weight: bolder;
+}
+.image{
+    margin-top: 30px;
+    padding: 30px;
+        margin-bottom: 100px !important;
+        height:250px;
+        width:100%;
+        background:
+            linear-gradient(-135deg, #3589e2 5px, transparent 0) 0 5px,
+            linear-gradient(135deg, #3c89db 5px, #fff 0) 0 5px;
+        background-color:#3384db;
+        background-position: left bottom;
+        background-repeat: repeat-x;
+        background-size: 10px 10px;
+}
+.container{
+    margin-top: '50px' !important
+}
